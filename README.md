@@ -1,1 +1,2 @@
-# ML-HSE Coursework
+# ML-HSE
+Coursework in HSE Machine Learning course
